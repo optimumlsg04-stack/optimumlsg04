@@ -1,0 +1,5 @@
+export { Card } from './primitives/Card'
+export { Button } from './primitives/Button'
+export { Input } from './primitives/Input'
+export { Label } from './primitives/Label'
+export { Tabs, TabsList, TabsTrigger, TabsContent } from './primitives/Tabs'
